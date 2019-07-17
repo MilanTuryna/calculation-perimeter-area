@@ -69,7 +69,7 @@ $boostrap = "Boostrap" ;
 </div>
 <div class="card-footer text-muted" style="margin-top: 8px;" >
     <div class="container" ><?php
-    print($footer)?>
+    print($footer)?>- Jedná se o soutěžní aplikaci v soutěži od <a href="https://itnetwork.cz">itnetwork.cz</a>
     
   </div>
   </div>
